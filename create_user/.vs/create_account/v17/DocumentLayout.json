@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rdglo\\Desktop\\Computer Programming\\Winter 2025\\Introduction to C\u002B\u002B\\Code VS\\Compressed package\\book_apps\\ch06d_create_account\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD5C855-22C9-4C71-B537-48C67AE44A65}|create_account\\create_account.vcxproj|C:\\Users\\rdglo\\Desktop\\Computer Programming\\Winter 2025\\Introduction to C\u002B\u002B\\Code VS\\Compressed package\\book_apps\\ch06d_create_account\\create_account\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AD5C855-22C9-4C71-B537-48C67AE44A65}|create_account\\create_account.vcxproj|solutionrelative:create_account\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rdglo\\Desktop\\Computer Programming\\Winter 2025\\Introduction to C\u002B\u002B\\Code VS\\Compressed package\\book_apps\\ch06d_create_account\\create_account\\main.cpp",
+              "RelativeDocumentMoniker": "create_account\\main.cpp",
+              "ToolTip": "C:\\Users\\rdglo\\Desktop\\Computer Programming\\Winter 2025\\Introduction to C\u002B\u002B\\Code VS\\Compressed package\\book_apps\\ch06d_create_account\\create_account\\main.cpp",
+              "RelativeToolTip": "create_account\\main.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T18:28:31.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

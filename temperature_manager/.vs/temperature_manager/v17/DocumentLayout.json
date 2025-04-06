@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rdglo\\Desktop\\Computer Programming\\Winter 2025\\Introduction to C\u002B\u002B\\Code VS\\Compressed package\\book_apps\\ch06c_temperature_manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B35D1ED-D74A-4B3E-B5EA-13B5A7A59B19}|temperature_manager\\temperature_manager.vcxproj|C:\\Users\\rdglo\\Desktop\\Computer Programming\\Winter 2025\\Introduction to C\u002B\u002B\\Code VS\\Compressed package\\book_apps\\ch06c_temperature_manager\\temperature_manager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B35D1ED-D74A-4B3E-B5EA-13B5A7A59B19}|temperature_manager\\temperature_manager.vcxproj|solutionrelative:temperature_manager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rdglo\\Desktop\\Computer Programming\\Winter 2025\\Introduction to C\u002B\u002B\\Code VS\\Compressed package\\book_apps\\ch06c_temperature_manager\\temperature_manager\\main.cpp",
+              "RelativeDocumentMoniker": "temperature_manager\\main.cpp",
+              "ToolTip": "C:\\Users\\rdglo\\Desktop\\Computer Programming\\Winter 2025\\Introduction to C\u002B\u002B\\Code VS\\Compressed package\\book_apps\\ch06c_temperature_manager\\temperature_manager\\main.cpp",
+              "RelativeToolTip": "temperature_manager\\main.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T21:10:37.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

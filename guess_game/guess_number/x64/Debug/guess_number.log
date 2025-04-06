@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\OneDrive - Georgian College\Courses\C++\Murach\student_download\vs\book_apps\ch04c_guess_number\guess_number\main.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  guess_number.vcxproj -> D:\OneDrive - Georgian College\Courses\C++\Murach\student_download\vs\book_apps\ch04c_guess_number\x64\Debug\guess_number.exe

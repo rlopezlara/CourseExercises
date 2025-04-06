@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch18_sensor_analysis\sensor_analysis\main.cpp(37,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sensor_analysis.vcxproj -> C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch18_sensor_analysis\x64\Debug\sensor_analysis.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rdglo\\Desktop\\Computer Programming\\Winter 2025\\Introduction to C\u002B\u002B\\Code VS\\Compressed package\\book_apps\\ch09b_movie_list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B25C4F-BA21-4D90-80E9-B66034595883}|movie_list\\movie_list.vcxproj|C:\\Users\\rdglo\\Desktop\\Computer Programming\\Winter 2025\\Introduction to C\u002B\u002B\\Code VS\\Compressed package\\book_apps\\ch09b_movie_list\\movie_list\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1B25C4F-BA21-4D90-80E9-B66034595883}|movie_list\\movie_list.vcxproj|solutionrelative:movie_list\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rdglo\\Desktop\\Computer Programming\\Winter 2025\\Introduction to C\u002B\u002B\\Code VS\\Compressed package\\book_apps\\ch09b_movie_list\\movie_list\\main.cpp",
+              "RelativeDocumentMoniker": "movie_list\\main.cpp",
+              "ToolTip": "C:\\Users\\rdglo\\Desktop\\Computer Programming\\Winter 2025\\Introduction to C\u002B\u002B\\Code VS\\Compressed package\\book_apps\\ch09b_movie_list\\movie_list\\main.cpp",
+              "RelativeToolTip": "movie_list\\main.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T17:46:27.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch19c_number_cruncher\number_cruncher\main.cpp(23,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch19c_number_cruncher\number_cruncher\main.cpp(42,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch19c_number_cruncher\number_cruncher\MyVector.h(194,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch19c_number_cruncher\number_cruncher\MyVector.h(194,19):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch19c_number_cruncher\number_cruncher\main.cpp(19,19):
+  	see reference to class template instantiation 'MyVector<int>' being compiled
+  	C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch19c_number_cruncher\number_cruncher\MyVector.h(190,37):
+  	while compiling class template member function 'void MyVector<int>::push_back(T)'
+          with
+          [
+              T=int
+          ]
+  		C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch19c_number_cruncher\number_cruncher\main.cpp(26,26):
+  		see the first reference to 'MyVector<int>::push_back' in 'main'
+  
+  number_cruncher.vcxproj -> C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch19c_number_cruncher\x64\Debug\number_cruncher.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch06d_create_account\create_account\main.cpp(20,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch06d_create_account\create_account\main.cpp(26,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch06d_create_account\create_account\main.cpp(54,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  create_account.vcxproj -> C:\Users\rdglo\Desktop\Computer Programming\Winter 2025\Introduction to C++\Code VS\Compressed package\book_apps\ch06d_create_account\x64\Debug\create_account.exe
